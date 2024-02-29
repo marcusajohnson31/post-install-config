@@ -134,10 +134,10 @@ Sev-C (8 hours, business hours)
 </p>
 <p>
 Configure Help Topics
-Admin Panel -> Manage -> Help Topics
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
+Admin Panel -> Manage -> Help Topics (Add New)
+Business Critical Outage,
+Personal Computer Issues,
+Equipment Request,
 Password Reset
 
 
