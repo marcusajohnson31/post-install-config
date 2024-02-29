@@ -119,6 +119,7 @@ Ken
 <p>
 Configure SLA
 Admin Panel -> Manage -> SLA
+(Add New)  
 Sev-A (1 hour, 24/7)
 Sev-B (4 hours, 24/7)
 Sev-C (8 hours, business hours)
